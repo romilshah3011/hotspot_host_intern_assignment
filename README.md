@@ -225,7 +225,7 @@ This project is part of an assignment submission.
 ## 👤 Author
 
 **Romil Shah**
-- Email: romilshah3011@gmail.com
+- Email: romil.shah24@spit.ac.in
 - GitHub: https://github.com/romilshah3011
 
 ## 🙏 Acknowledgments
@@ -243,4 +243,5 @@ This project is part of an assignment submission.
 **Repository**: https://github.com/romilshah3011/hotspot_host_intern_assignment
 
 **Demo Video**: https://drive.google.com/file/d/1oNuxDNKp5gF5eHKWF9Ro7htAGXH_lrjK/view?usp=drive_link
+
 
